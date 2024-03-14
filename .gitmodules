@@ -1,0 +1,3 @@
+[submodule "gitdash"]
+	path = gitdash
+	url = git@github.com:lloydlobo/gitdash.git
