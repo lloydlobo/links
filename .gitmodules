@@ -1,3 +1,48 @@
 [submodule "gitdash"]
 	path = gitdash
 	url = git@github.com:lloydlobo/gitdash.git
+[submodule "dots/.dotfiles"]
+	path = dots/.dotfiles
+	url = git@github.com:lloydlobo/.dotfiles.git
+[submodule "scratches/jrnl"]
+	path = scratches/jrnl
+	url = git@github.com:lloydlobo/jrnl.git
+[submodule "scratches/personal"]
+	path = scratches/personal
+	url = git@github.com:lloydlobo/personal.git
+[submodule "dots/init.lua"]
+	path = dots/init.lua
+	url = git@github.com:lloydlobo/init.lua.git
+[submodule "scratches/obsidian-job"]
+	path = scratches/obsidian-job
+	url = git@github.com:lloydlobo/obsidian-job.git
+[submodule "dots/astronvim_config"]
+	path = dots/astronvim_config
+	url = git@github.com:lloydlobo/astronvim_config.git
+[submodule "dots/config"]
+	path = dots/config
+	url = git@github.com:lloydlobo/config.git
+[submodule "scratches/devlog"]
+	path = scratches/devlog
+	url = git@github.com:lloydlobo/devlog.git
+[submodule "dots/.dotfiles_bak_20230524"]
+	path = dots/.dotfiles_bak_20230524
+	url = git@github.com:lloydlobo/.dotfiles_bak_20230524.git
+[submodule "dots/astronvim_config_old"]
+	path = dots/astronvim_config_old
+	url = git@github.com:lloydlobo/astronvim_config_old.git
+[submodule "scratches/quicknote"]
+	path = scratches/quicknote
+	url = git@github.com:lloydlobo/quicknote.git
+[submodule "scratches/blog"]
+	path = scratches/blog
+	url = git@github.com:lloydlobo/blog.git
+[submodule "scratches/articles"]
+	path = scratches/articles
+	url = git@github.com:lloydlobo/articles.git
+[submodule "lloydlobo"]
+	path = lloydlobo
+	url = git@github.com:lloydlobo/lloydlobo.git
+[submodule "dots/.dotfiles_nix"]
+	path = dots/.dotfiles_nix
+	url = git@github.com:lloydlobo/.dotfiles_nix
