@@ -46,3 +46,30 @@
 [submodule "dots/.dotfiles_nix"]
 	path = dots/.dotfiles_nix
 	url = git@github.com:lloydlobo/.dotfiles_nix
+[submodule "scratches/tldr"]
+	path = scratches/tldr
+	url = git@github.com:lloydlobo/tldr.git
+[submodule "scratches/portfolio"]
+	path = scratches/portfolio
+	url = git@github.com:lloydlobo/portfolio.git
+[submodule "langs/course-cs50"]
+	path = langs/course-cs50
+	url = git@github.com:lloydlobo/course-cs50.git
+[submodule "langs/lang-sql"]
+	path = langs/lang-sql
+	url = git@github.com:lloydlobo/lang-sql.git
+[submodule "langs/asmisms"]
+	path = langs/asmisms
+	url = git@github.com:lloydlobo/asmisms.git
+[submodule "langs/aoc-2023"]
+	path = langs/aoc-2023
+	url = git@github.com:lloydlobo/aoc-2023.git
+[submodule "langs/lang-uiua"]
+	path = langs/lang-uiua
+	url = git@github.com:lloydlobo/lang-uiua.git
+[submodule "langs/leetcode"]
+	path = langs/leetcode
+	url = git@github.com:lloydlobo/leetcode.git
+[submodule "langs/aoc-2022"]
+	path = langs/aoc-2022
+	url = git@github.com:lloydlobo/aoc-2022.git
