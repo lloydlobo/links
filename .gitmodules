@@ -73,3 +73,6 @@
 [submodule "langs/aoc-2022"]
 	path = langs/aoc-2022
 	url = git@github.com:lloydlobo/aoc-2022.git
+[submodule "langs/lang-asm"]
+	path = langs/lang-asm
+	url = git@github.com:lloydlobo/lang-asm.git
