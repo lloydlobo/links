@@ -78,7 +78,7 @@
 	url = git@github.com:lloydlobo/lang-asm.git
 [submodule "lloydlobo.gitlab.io"]
 	path = lloydlobo.gitlab.io
-	url = https://gitlab.com/lloydlobo/lloydlobo.gitlab.io.git
+	url = git@gitlab.com:lloydlobo/lloydlobo.gitlab.io.git
 [submodule "blog"]
 	path = blog
-	url = https://gitlab.com/lloydlobo/blog.git
+	url = git@gitlab.com:lloydlobo/blog.git
